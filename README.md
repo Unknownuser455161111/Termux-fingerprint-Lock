@@ -1,5 +1,5 @@
 # Termux-fingerprint-Lock
-# Requirements:-
+# Installation:-
 $ apt-get update && apt-get upgrade
 $ apt-get install termux-api
 $ apt-get install wget && apt-get install curl
