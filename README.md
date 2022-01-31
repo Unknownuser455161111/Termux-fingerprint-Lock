@@ -1,4 +1,5 @@
-# Termux-fingerprint-Lock
+# Secure 🔐 Termux with Termux-Fingerprint-Lock
+
 # Installation:-
 $ apt-get update && apt-get upgrade
 $ apt-get install termux-api
